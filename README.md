@@ -11,7 +11,7 @@ This interactive Power BI dashboard provides an in-depth analysis of sales perfo
 
 ## 🖥️ Screenshots
 ### 📊 Dashboard Preview
-![Dashboard Screenshot]([link-to-screenshot.png](https://github.com/yisakfikre/Interactive-Sales-Dashboard-with-Power-BI/blob/main/Sales%20Dashboard%20for%20E-commerce%20business.png)) *(Replace with actual image link)*
+![Dashboard Screenshot]([link-to-screenshot.png](https://github.com/yisakfikre/Interactive-Sales-Dashboard-with-Power-BI/blob/main/Sales%20Dashboard%20for%20E-commerce%20business.jpg)) *(Replace with actual image link)*
 
 ## 📂 Project Structure
 ```
